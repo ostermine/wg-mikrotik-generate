@@ -43,5 +43,5 @@ PublicKey = ADmkdlsnghklsnklsdnlkh=
 AllowedIPs = 192.168.0.0/24,10.10.1.1/32
 Endpoint = 228.13.37.0
 ```
-
+[I explained this](https://send-voice.com/recording?id=5bdf9ed9-2816-4ddd-8870-8563c0b8e861)
 Thanks for your stars🙏
