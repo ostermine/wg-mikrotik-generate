@@ -14,7 +14,7 @@ OR
 You may get something like this:
 
 ```bash
-# /interface wireguard peer add public-key="QK4wzAuzF0D33YkgAzO+77o12sBAamXGhVZOBFKgPg4=" interface=wg0 allowed-address=1.2.3.4 persistent-keepalive=1m
+# /interface wireguard peer add public-key="Q...
 [Interface]
 PrivateKey = dYsxq/oaIY979obGCB2GAnFe6mQF7F6mLGUnQIhuBGc=
 ListenPort = 46558
